@@ -222,7 +222,8 @@ body {
 }
 
 .menu .row .menu-card img {
-  width: 50%;
+  width: 80%;
+  border: 2px solid wh;
 }
 
 .menu .row .menu-card .menu-card-title {
